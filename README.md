@@ -7,12 +7,12 @@ Thanks for introducing me to this problem and the resulting mindblowing algorith
 
 Notebook eluvio_sherif_adnan.ipynb has detailed step by step instructions on how to complete the challenge.
 
-**Runtime:**
+**Runtime**
 
 The solution runs in LINEAR TIME o(KN) with respect to the number of files and the length of each file. Here K is the number of files and N is the average number 
 of bytes in a file.
 
-**Solution:**
+**Solution**
 
 -Ukkonen's algorithm is used to create a generalized suffix tree in o(KN) time (library).
 
