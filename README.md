@@ -6,6 +6,8 @@ Thanks for introducing me to this problem and the resulting mindblowing algorith
 **Files**
 
 Notebook eluvio_sherif_adnan.ipynb has detailed step by step instructions on how to complete the challenge.
+Eluvio_LCS.py prints the required outputs by processing all the files in the folder starting with 'sample'
+tests.py tests some basic cases with respect to the solution 
 
 **Runtime**
 
