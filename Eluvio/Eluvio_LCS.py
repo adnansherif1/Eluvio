@@ -51,14 +51,6 @@ def longest(root):
 
 
 
-# create a generalized suffix tree by passing in data dict containing file names and content
-t2 = Tree(data)
-
-# as shown below the:
-# length of the longest common byte substring is 27648
-# the files are sample.3 and sample.2
-# the starting offset for the files are 17408, 3072
-result = longest(t2.root)
 
 def main():
     # load all the files into a dictionary data where the keys are the names of the file 
